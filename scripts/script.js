@@ -59,6 +59,3 @@ const toggleSwitch = document.getElementById('toggle-switch');
       toggleSwitch.checked = true;
     }
   });
-
-// Project filtering (optional)
-// Add data attributes to projects and filter them by category
